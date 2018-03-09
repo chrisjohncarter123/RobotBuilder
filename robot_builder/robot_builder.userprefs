@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Program/ProgramIfBlock.cs">
+    <Files>
+      <File FileName="Assets/scripts/GUI/Program GUI/ProgramGUIManager.cs" Line="20" Column="32" />
+      <File FileName="Assets/scripts/Program/ProgramManager.cs" Line="55" Column="3" />
+      <File FileName="Assets/scripts/GUI/Program GUI/ProgramGUIProgramFileGraphic.cs" Line="37" Column="3" />
+      <File FileName="Assets/scripts/GUI/Program GUI/ProgramGUICodeBlockGraphic.cs" Line="29" Column="4" />
+      <File FileName="Assets/scripts/GUI/Program GUI/ProgramGUICodeBlockAdd.cs" Line="54" Column="67" />
+      <File FileName="Assets/scripts/Program/ProgramBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/GUI/Program GUI/ProgramGUIVariableGraphic.cs" Line="25" Column="42" />
+      <File FileName="Assets/scripts/Program/ProgramAssignVariableBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Program/ProgramFile.cs" Line="20" Column="26" />
+      <File FileName="Assets/scripts/Program/ProgramIfBlock.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
